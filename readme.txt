@@ -5,4 +5,8 @@ Mi marca favorita de ropa es adidas
 fghjklñ
 =======
 Mi familia es la mejor del mundo
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+ghjklñghnjmk,.bhnjkiojb vbhjuijhbhioijb
+>>>>>>> 658696a1c06fa2b68e9a83085ad8234be4835c86
